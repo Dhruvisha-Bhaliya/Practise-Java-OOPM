@@ -1,0 +1,10 @@
+# IDE/Build Files to Ignore
+nbproject/
+build/
+dist/
+manifest.mf
+build.xml
+
+# Compiled Java Files
+*.class
+*.jar
